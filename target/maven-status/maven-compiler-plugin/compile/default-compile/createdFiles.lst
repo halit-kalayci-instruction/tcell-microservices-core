@@ -1,2 +1,6 @@
 com\halitkalayci\configuration\ApplicationConfiguration.class
 com\halitkalayci\jwt\JwtService.class
+com\halitkalayci\annotations\EnableSecurity.class
+com\halitkalayci\configuration\HttpSecurityCustomizer.class
+com\halitkalayci\configuration\BaseSecurityConfiguration.class
+com\halitkalayci\configuration\SecurityConfiguration.class
