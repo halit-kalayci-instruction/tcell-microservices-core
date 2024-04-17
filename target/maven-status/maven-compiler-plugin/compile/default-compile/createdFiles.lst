@@ -1,2 +1,2 @@
+com\halitkalayci\configuration\ApplicationConfiguration.class
 com\halitkalayci\jwt\JwtService.class
-com\halitkalayci\services\TestService.class
