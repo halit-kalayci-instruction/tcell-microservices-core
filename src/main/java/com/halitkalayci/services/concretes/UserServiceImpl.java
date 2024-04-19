@@ -1,7 +1,9 @@
 package com.halitkalayci.services.concretes;
 
+import com.halitkalayci.entities.User;
 import com.halitkalayci.repositories.UserRepository;
 import com.halitkalayci.services.abstracts.UserService;
+import com.halitkalayci.services.dtos.requests.RegisterRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -18,5 +20,16 @@ public class UserServiceImpl implements UserService {
     @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         return userRepository.findByEmail(username).orElseThrow(() -> new AccessDeniedException("Giriş başarısız."));
+    }
+
+    @Override
+    public void add(RegisterRequest request) {
+        User user = new User();
+        user.setEmail(request.getEmail());
+        user.setFirstName(request.getFirstName());
+        user.setLastName(request.getLastName());
+        user.setPassword(passwordEncoder.encode(request.getPassword()));
+
+        userRepository.save(user);
     }
 }
