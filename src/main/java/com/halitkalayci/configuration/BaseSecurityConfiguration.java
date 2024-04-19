@@ -1,4 +1,4 @@
-package com.halitkalayci.services.configuration;
+package com.halitkalayci.configuration;
 
 import com.halitkalayci.services.abstracts.UserService;
 import lombok.RequiredArgsConstructor;

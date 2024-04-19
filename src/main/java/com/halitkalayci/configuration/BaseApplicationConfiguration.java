@@ -1,4 +1,4 @@
-package com.halitkalayci.services.configuration;
+package com.halitkalayci.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
