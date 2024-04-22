@@ -1,6 +1,7 @@
+com\halitkalayci\filters\JwtAuthFilter.class
 com\halitkalayci\configuration\BaseApplicationConfiguration.class
-com\halitkalayci\services\dtos\requests\RegisterRequest.class
 com\halitkalayci\configuration\BaseSecurityService.class
 com\halitkalayci\jwt\JwtService.class
+com\halitkalayci\App.class
 com\halitkalayci\annotations\EnableSecurity.class
 com\halitkalayci\configuration\BaseSecurityConfiguration.class

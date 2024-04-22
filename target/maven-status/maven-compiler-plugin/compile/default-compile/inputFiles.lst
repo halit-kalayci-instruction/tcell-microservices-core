@@ -1,13 +1,7 @@
 C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\jwt\JwtService.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\entities\User.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\annotations\EnableSecurity.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\App.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\repositories\UserRepository.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\services\dtos\requests\RegisterRequest.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\services\concretes\UserServiceImpl.java
 C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\configuration\BaseSecurityConfiguration.java
 C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\configuration\BaseApplicationConfiguration.java
 C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\filters\JwtAuthFilter.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\entities\Role.java
+C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\annotations\EnableSecurity.java
+C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\App.java
 C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\configuration\BaseSecurityService.java
-C:\Users\klyyc\Desktop\Projects\Java\tcell.ms.core\core\src\main\java\com\halitkalayci\services\abstracts\UserService.java
