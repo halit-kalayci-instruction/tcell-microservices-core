@@ -10,7 +10,7 @@
   <groupId>com.halitkalayci</groupId>
   <artifactId>core</artifactId>
   <packaging>jar</packaging>
-  <version>1.2.5</version>
+  <version>1.2.6</version>
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
